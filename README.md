@@ -1,16 +1,6 @@
 # movie_app
 
-A new Flutter project.
+The usual TMDb movie app create in Flutter showcasing basic state management using Riverpod, GetX and Bloc-Cubit
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To understand the code please read the companion article: 
+https://medium.com/@mokashiharshad/diving-into-flutter-state-management-riverpod-getx-and-bloc-cubit-for-beginners-part-1-4ce18e627d3d
